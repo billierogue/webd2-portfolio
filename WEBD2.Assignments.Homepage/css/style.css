@@ -1,0 +1,42 @@
+/* Defaults ----------*/
+
+html{
+font-family: sans-serif;
+}
+
+body{
+margin: 50px;
+background-color: rgb(224, 34, 199);
+}
+
+/*CSS ---------- */
+
+.wrapper{
+    width: 80%;
+    margin: auto;
+}
+
+.nav{
+list-style-type: none;
+}
+
+.header{
+height: 7vh;
+background: linear-gradient(45deg, rgb(9, 20, 31), rgb(243, 11, 50));
+}
+
+#billie{
+    color: whitesmoke;
+}
+
+.jerry{
+    margin-top: 10px;
+}
+
+.main{
+
+}
+
+.footer{
+
+}
