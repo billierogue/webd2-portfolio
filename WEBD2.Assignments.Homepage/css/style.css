@@ -9,6 +9,10 @@ margin: 50px;
 background-color: rgb(224, 34, 199);
 }
 
+h1{
+font-family: "bubble";
+}
+
 /*CSS ---------- */
 
 .wrapper{
@@ -27,6 +31,9 @@ background: linear-gradient(45deg, greenyellow, rgb(0, 225, 255));
 
 #billie{
     color: black;
+    margin: auto;
+    font-size: 50px;
+    align-items: center;
 }
 
 .jerry{
