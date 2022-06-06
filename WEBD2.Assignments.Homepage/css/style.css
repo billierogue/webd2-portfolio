@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "bubble";
+    src: url(../fonts/PLANB___.TTF);
+}
+
+@font-face {
+    font-family: "y2k";
+    src: url(../fonts/PLANK___.TTF);
+}
 /* Defaults ----------*/
 
 html{
