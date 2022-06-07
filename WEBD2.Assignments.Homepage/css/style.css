@@ -1,11 +1,11 @@
 @font-face {
     font-family: "bubble";
-    src: url(../fonts/PLANB___.TTF);
+    src: url(WEBD2.Assignments.Homepage/fonts/PLANB___.TTF);
 }
 
 @font-face {
     font-family: "y2k";
-    src: url(../fonts/PLANK___.TTF);
+    src: url(WEBD2.Assignments.Homepage/fonts/PLANK___.TTF);
 }
 /* Defaults ----------*/
 
@@ -43,6 +43,7 @@ background: linear-gradient(45deg, greenyellow, rgb(0, 225, 255));
     margin: auto;
     font-size: 50px;
     align-items: center;
+    font-family: "bubble"
 }
 
 .jerry{
